@@ -25,7 +25,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 To watch for class changes automagically:
 
 ```bash
-npx tailwindcss -i ./src/input.css -o ./public/output.css --watch
+npx tailwindcss -i ./public/input.css -o ./public/output.css --watch
 ```
 
 ## Learn More
